@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       GatherPress Groups
  * Plugin URI:        https://github.com/carstingaxion/gatherpress-groups
- * Description:
+ * Description:       Adds a Group post type to GatherPress, a venue-style collective that receives person–role assignments via GatherPress Relations and links to events and productions through a shadow taxonomy.
  * Version:           0.1.0
  * Requires at least: 6.0
  * Requires PHP:      7.4

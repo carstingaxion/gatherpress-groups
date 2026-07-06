@@ -1,7 +1,7 @@
 {
     "name": "gatherpress-groups",
     "version": "0.1.0",
-    "description": "",
+    "description": "Adds a Group post type to GatherPress, a venue-style collective that receives person–role assignments via GatherPress Relations and links to events and productions through a shadow taxonomy.",
     "author": "carstenbach",
     "license": "GPL-2.0-or-later",
     "keywords": [

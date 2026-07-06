@@ -1,6 +1,6 @@
 {
     "name": "carstingaxion/gatherpress-groups",
-    "description": "",
+    "description": "Adds a Group post type to GatherPress, a venue-style collective that receives person–role assignments via GatherPress Relations and links to events and productions through a shadow taxonomy.",
     "license": "GPL-2.0+",
     "type": "wordpress-plugin",
     "keywords": [
